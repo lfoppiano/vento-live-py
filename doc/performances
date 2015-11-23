@@ -1,0 +1,51 @@
+# TEST 1
+Accuracy: 0.8033794162826421
+F-measure [1.0.csv]: 0.6097560975609756
+F-measure [2.0.csv]: 0.8688805203697365
+F-measure [3.0.csv]: None
+Precision [1.0.csv]: 0.4716981132075472
+Precision [2.0.csv]: 0.9635535307517085
+Precision [3.0.csv]: None
+Recall [1.0.csv]: 0.8620689655172413
+Recall [2.0.csv]: 0.7911471321695761
+Recall [3.0.csv]: 0.0
+
+freq>=4
+1.0: 1743
+2.0: 8023
+3.0: 11
+
+# TEST 2
+Accuracy: 0.7910906298003072
+F-measure [1.0.csv]: 0.5903614457831325
+F-measure [2.0.csv]: 0.860089377793056
+F-measure [3.0.csv]: None
+Precision [1.0.csv]: 0.4537037037037037
+Precision [2.0.csv]: 0.9586206896551724
+Precision [3.0.csv]: None
+Recall [1.0.csv]: 0.8448275862068966
+Recall [2.0.csv]: 0.779925187032419
+Recall [3.0.csv]: 0.0
+
+freq>=6
+1.0: 1743
+2.0: 8023
+3.0: 11
+
+
+# TEST 3: removed duplicated
+Accuracy: 0.8251599147121536
+F-measure [1.0.csv]: 0.6132075471698113
+F-measure [2.0.csv]: 0.8876636802205375
+F-measure [3.0.csv]: None
+Precision [1.0.csv]: 0.5990783410138248
+Precision [2.0.csv]: 0.8932038834951457
+Precision [3.0.csv]: None
+Recall [1.0.csv]: 0.6280193236714976
+Recall [2.0.csv]: 0.8821917808219178
+Recall [3.0.csv]: 0.0
+
+freq>=4
+1.0: 1042
+2.0: 3655
+3.0: 9
